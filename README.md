@@ -77,16 +77,16 @@ Utilitários e funções compartilhadas:
 2. **Configure a variável de ambiente BASE_URL:**
 Altere o arquivo config.local.json e defina a URL base da API a ser testada:
 
-   ```bash
+```bash
 {
     "baseUrl": "http://localhost:3000"
 }
-   ```
+```
 
 3. **Verifique a instalação do K6:**
-   ```bash
+```bash
    k6 version
-   ```
+```
 
 ## ▶️ Execução dos Testes
 
