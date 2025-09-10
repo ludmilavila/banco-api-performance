@@ -65,6 +65,8 @@ Utilitários e funções compartilhadas:
 ### Pré-requisitos
 - [K6](https://k6.io/docs/getting-started/installation/) instalado no sistema
 - Node.js (opcional, para desenvolvimento)
+- Clonar e executar:
+  - [banco-api](https://github.com/juliodelimas/banco-api)
 
 ### Passos para Instalação
 
@@ -136,12 +138,11 @@ Após a execução, o relatório estará salvo como html-report.html.
 - Taxa de falha deve ser menor que 1%
 
 
-## 👥 Autor
+## 🌸 Desenvolvido por:
 
-**Ludmila Ávila**
-- GitHub: [@ludmilavila](https://github.com/ludmilavila)
-- Repositório: [banco-api-performance](https://github.com/ludmilavila/banco-api-performance)
+**Ludmila Ávila** - [GitHub](https://github.com/ludmilavila)
+[LinkedIn](https://www.linkedin.com/in/ludmilaavilamendes)
 
 ---
 
-⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
+Projeto desenvolvido para fins de estudo durante a Mentoria 2.0.
